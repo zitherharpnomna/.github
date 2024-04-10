@@ -1,12 +1,15 @@
-## Hi there 👋
+## Xin chào mọi người 👋
 
-<!--
+**Giới thiệu sơ qua về chúng mình nhé:**
 
-**Here are some ideas to get you started:**
+🙋‍♀️ Nơi đây không tạo mới chữ Nôm, mà cải tiến và bảo tồn chúng
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌈 Hoan nghênh mọi người tham gia cộng đồng để cùng thảo luận về chữ Nôm
+
+👩‍💻 Nơi đây kết nối mọi người yêu thích nét đẹp văn hóa và lịch sử của chữ Nôm
+
+🍿 Song hành với đó là dữ liệu về chữ Nôm sẽ được tổng hợp vào trong các dự án tại đây
+
+🧙 Nhớ nè, bạn có thể liên lạc với chúng mình bất cứ khi nào nếu có thắc mắc hay ý kiến tại [Facebook](https://www.facebook.com/zitherharpnomna) nhé.
+
+**Cảm ơn bạn đã đọc hết!**
