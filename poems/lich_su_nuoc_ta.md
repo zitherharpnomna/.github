@@ -1,38 +1,40 @@
-<h1><ruby>民<rt>Dân</rt></ruby> <ruby>咱<rt>ta</rt></ruby> <ruby>�<rt>phải</rt></ruby> <ruby>�<rt>biết</rt></ruby> <ruby>別<rt>sử</rt></ruby> <ruby>史<rt>ta</rt></ruby>
+<h2>
+
+<ruby>民<rt>Dân</rt></ruby> <ruby>咱<rt>ta</rt></ruby> <ruby>𬆃<rt>phải</rt></ruby> <ruby>別<rt>biết</rt></ruby> <ruby>史<rt>sử</rt></ruby> <ruby>咱<rt>ta</rt></ruby>
 
 <ruby>賙<rt>Cho</rt></ruby> <ruby>詳<rt>tường</rt></ruby> <ruby>㭲<rt>gốc</rt></ruby> <ruby>昔<rt>tích</rt></ruby> <ruby>渃<rt>nước</rt></ruby> <ruby>茹<rt>nhà</rt></ruby> <ruby>越<rt>Việt</rt></ruby> <ruby>南<rt>Nam</rt></ruby>
 
-<ruby>�<rt>Kể</rt></ruby> <ruby>�<rt>năm</rt></ruby> <ruby>�<rt>hơn</rt></ruby> <ruby>�<rt>bốn</rt></ruby> <ruby>欣<rt>ngàn</rt></ruby> <ruby>�<rt>năm</rt></ruby>
+<ruby>𠸥<rt>Kể</rt></ruby> <ruby>𢆥<rt>năm</rt></ruby> <ruby>欣<rt>hơn</rt></ruby> <ruby>𦊚<rt>bốn</rt></ruby> <ruby>𠦳<rt>ngàn</rt></ruby> <ruby>𢆥<rt>năm</rt></ruby>
 
-<ruby>祖<rt>Tổ</rt></ruby> <ruby>仙<rt>tiên</rt></ruby> <ruby>熤<rt>rực</rt></ruby> <ruby>�<rt>rỡ</rt></ruby> <ruby>�<rt>anh</rt></ruby> <ruby>偀<rt>em</rt></ruby> <ruby>㛪<rt>thuận</rt></ruby> <ruby>順<rt>hoà</rt></ruby>
+<ruby>祖<rt>Tổ</rt></ruby> <ruby>仙<rt>tiên</rt></ruby> <ruby>熤<rt>rực</rt></ruby> <ruby>𠒦<rt>rỡ</rt></ruby> <ruby>偀<rt>anh</rt></ruby> <ruby>㛪<rt>em</rt></ruby> <ruby>順<rt>thuận</rt></ruby> <ruby>和<rt>hoà</rt></ruby>
 
-<ruby>鴻<rt>Hồng</rt></ruby> <ruby>龐<rt>Bàng</rt></ruby> <ruby>�<rt>là</rt></ruby> <ruby>�<rt>tổ</rt></ruby> <ruby>祖<rt>nước</rt></ruby> <ruby>渃<rt>ta</rt></ruby>
+<ruby>鴻<rt>Hồng</rt></ruby> <ruby>龐<rt>Bàng</rt></ruby> <ruby>𪜀<rt>là</rt></ruby> <ruby>祖<rt>tổ</rt></ruby> <ruby>渃<rt>nước</rt></ruby> <ruby>咱<rt>ta</rt></ruby>
 
-<ruby>渃<rt>Nước</rt></ruby> <ruby>咱<rt>ta</rt></ruby> <ruby>�<rt>lúc</rt></ruby> <ruby>�<rt>ấy</rt></ruby> <ruby>�<rt>gọi</rt></ruby> <ruby>�<rt>là</rt></ruby> <ruby>噲<rt>Văn</rt></ruby> <ruby>�<rt>Lang</rt></ruby>
+<ruby>渃<rt>Nước</rt></ruby> <ruby>咱<rt>ta</rt></ruby> <ruby>𣅶<rt>lúc</rt></ruby> <ruby>𧘇<rt>ấy</rt></ruby> <ruby>噲<rt>gọi</rt></ruby> <ruby>𪜀<rt>là</rt></ruby> <ruby>文<rt>Văn</rt></ruby> <ruby>郎<rt>Lang</rt></ruby>
 
-<ruby>少<rt>Thiếu</rt></ruby> <ruby>年<rt>niên</rt></ruby> <ruby>咱<rt>ta</rt></ruby> <ruby>郅<rt>rất</rt></ruby> <ruby>�<rt>vẻ</rt></ruby> <ruby>�<rt>vang</rt></ruby>
+<ruby>少<rt>Thiếu</rt></ruby> <ruby>年<rt>niên</rt></ruby> <ruby>咱<rt>ta</rt></ruby> <ruby>郅<rt>rất</rt></ruby> <ruby>𢽙<rt>vẻ</rt></ruby> <ruby>𤾔<rt>vang</rt></ruby>
 
-<ruby>穉<rt>Trẻ</rt></ruby> <ruby>�<rt>con</rt></ruby> <ruby>�<rt>Phù</rt></ruby> <ruby>扶<rt>Đổng</rt></ruby> <ruby>董<rt>tiếng</rt></ruby> <ruby>�<rt>vang</rt></ruby> <ruby>�<rt>muôn</rt></ruby> <ruby>�<rt>đời</rt></ruby>
+<ruby>穉<rt>Trẻ</rt></ruby> <ruby>𡥵<rt>con</rt></ruby> <ruby>扶<rt>Phù</rt></ruby> <ruby>董<rt>Đổng</rt></ruby> <ruby>董<rt>tiếng</rt></ruby> <ruby>𤾔<rt>vang</rt></ruby> <ruby>𨷈<rt>muôn</rt></ruby> <ruby>𠁀<rt>đời</rt></ruby>
 
-<ruby>�<rt>Tuổi</rt></ruby> <ruby>�<rt>tuy</rt></ruby> <ruby>雖<rt>chưa</rt></ruby> <ruby>�<rt>đến</rt></ruby> <ruby>�<rt>chín</rt></ruby> <ruby>�<rt>mười</rt></ruby>
+<ruby>嵗<rt>Tuổi</rt></ruby> <ruby>雖<rt>tuy</rt></ruby> <ruby>𣗓<rt>chưa</rt></ruby> <ruby>𦤾<rt>đến</rt></ruby> <ruby>𠃩<rt>chín</rt></ruby> <ruby>𨑮<rt>mười</rt></ruby>
 
-<ruby>�<rt>Ra</rt></ruby> <ruby>�<rt>tay</rt></ruby> <ruby>拪<rt>cứu</rt></ruby> <ruby>救<rt>nước</rt></ruby> <ruby>渃<rt>dẹp</rt></ruby> <ruby>揲<rt>loài</rt></ruby> <ruby>�<rt>vô</rt></ruby> <ruby>�<rt>lương</rt></ruby>
+<ruby>𫥧<rt>Ra</rt></ruby> <ruby>拪<rt>tay</rt></ruby> <ruby>救<rt>cứu</rt></ruby> <ruby>渃<rt>nước</rt></ruby> <ruby>揲<rt>dẹp</rt></ruby> <ruby>揲<rt>loài</rt></ruby> <ruby>無<rt>vô</rt></ruby> <ruby>良<rt>lương</rt></ruby>
 
 <ruby>安<rt>An</rt></ruby> <ruby>陽<rt>Dương</rt></ruby> <ruby>王<rt>Vương</rt></ruby> <ruby>替<rt>thế</rt></ruby> <ruby>雄<rt>Hùng</rt></ruby> <ruby>王<rt>Vương</rt></ruby>
 
 <ruby>國<rt>Quốc</rt></ruby> <ruby>名<rt>danh</rt></ruby> <ruby>歐<rt>Âu</rt></ruby> <ruby>駱<rt>Lạc</rt></ruby> <ruby>禽<rt>cầm</rt></ruby> <ruby>權<rt>quyền</rt></ruby> <ruby>治<rt>trị</rt></ruby> <ruby>民<rt>dân</rt></ruby>
 
-<ruby>趙<rt>Triệu</rt></ruby> <ruby>佗<rt>Đà</rt></ruby> <ruby>�<rt>là</rt></ruby> <ruby>�<rt>vị</rt></ruby> <ruby>位<rt>hiền</rt></ruby> <ruby>賢<rt>quân</rt></ruby>
+<ruby>趙<rt>Triệu</rt></ruby> <ruby>佗<rt>Đà</rt></ruby> <ruby>𪜀<rt>là</rt></ruby> <ruby>位<rt>vị</rt></ruby> <ruby>賢<rt>hiền</rt></ruby> <ruby>軍<rt>quân</rt></ruby>
 
-<ruby>國<rt>Quốc</rt></ruby> <ruby>名<rt>danh</rt></ruby> <ruby>南<rt>Nam</rt></ruby> <ruby>越<rt>Việt</rt></ruby> <ruby>治<rt>trị</rt></ruby> <ruby>民<rt>dân</rt></ruby> <ruby>�<rt>năm</rt></ruby> <ruby>�<rt>đời</rt></ruby>
+<ruby>國<rt>Quốc</rt></ruby> <ruby>名<rt>danh</rt></ruby> <ruby>南<rt>Nam</rt></ruby> <ruby>越<rt>Việt</rt></ruby> <ruby>治<rt>trị</rt></ruby> <ruby>民<rt>dân</rt></ruby> <ruby>𠄼<rt>năm</rt></ruby> <ruby>𠁀<rt>đời</rt></ruby>
 
-<ruby>渃<rt>Nước</rt></ruby> <ruby>艚<rt>Tàu</rt></ruby> <ruby>�<rt>cậy</rt></ruby> <ruby>�<rt>thế</rt></ruby> <ruby>世<rt>đông</rt></ruby> <ruby>�<rt>người</rt></ruby>
+<ruby>渃<rt>Nước</rt></ruby> <ruby>艚<rt>Tàu</rt></ruby> <ruby>𢭄<rt>cậy</rt></ruby> <ruby>世<rt>thế</rt></ruby> <ruby>𬨮<rt>đông</rt></ruby> <ruby>𠊛<rt>người</rt></ruby>
 
 <ruby>捁<rt>Kéo</rt></ruby> <ruby>軍<rt>quân</rt></ruby> <ruby>壓<rt>áp</rt></ruby> <ruby>逼<rt>bức</rt></ruby> <ruby>偅<rt>giống</rt></ruby> <ruby>㐻<rt>nòi</rt></ruby> <ruby>越<rt>Việt</rt></ruby> <ruby>南<rt>Nam</rt></ruby>
 
 <ruby>軍<rt>Quân</rt></ruby> <ruby>艚<rt>Tàu</rt></ruby> <ruby>饒<rt>nhiều</rt></ruby> <ruby>仉<rt>kẻ</rt></ruby> <ruby>貪<rt>tham</rt></ruby> <ruby>婪<rt>lam</rt></ruby>
 
-<ruby>民<rt>Dân</rt></ruby> <ruby>咱<rt>ta</rt></ruby> <ruby>何<rt>há</rt></ruby> <ruby>易<rt>dễ</rt></ruby> <ruby>�<rt>chịu</rt></ruby> <ruby>�<rt>làm</rt></ruby> <ruby> <rt>tôi</rt></ruby> <ruby> <rt>ngươi</rt></ruby>
+<ruby>民<rt>Dân</rt></ruby> <ruby>咱<rt>ta</rt></ruby> <ruby>何<rt>há</rt></ruby> <ruby>易<rt>dễ</rt></ruby> <ruby>𠺥<rt>chịu</rt></ruby> <ruby>𬈋<rt>làm</rt></ruby> <ruby>𫇈<rt>tôi</rt></ruby> <ruby>𤾰<rt>ngươi</rt></ruby>
 
 <ruby>婆<rt>Hai</rt></ruby> <ruby>征<rt>Bà</rt></ruby> <ruby>固<rt>Trưng</rt></ruby> <ruby>大<rt>có</rt></ruby> <ruby>財<rt>đại</rt></ruby> <ruby> <rt>tài</rt></ruby>
 
@@ -392,4 +394,4 @@
 
 <ruby>同<rt>Đồng</rt></ruby> <ruby>情<rt>tình</rt></ruby> <ruby>同<rt>đồng</rt></ruby> <ruby>飭<rt>sức</rt></ruby> <ruby>同<rt>đồng</rt></ruby> <ruby>�<rt>lòng</rt></ruby> <ruby>�<rt>đồng</rt></ruby> <ruby>同<rt>minh</rt></ruby>
 
-</h1>
+</h2>
