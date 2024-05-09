@@ -36,15 +36,15 @@
 
 <ruby>民<rt>Dân</rt></ruby> <ruby>咱<rt>ta</rt></ruby> <ruby>何<rt>há</rt></ruby> <ruby>易<rt>dễ</rt></ruby> <ruby>𠺥<rt>chịu</rt></ruby> <ruby>𬈋<rt>làm</rt></ruby> <ruby>𫇈<rt>tôi</rt></ruby> <ruby>𤾰<rt>ngươi</rt></ruby>
 
-<ruby>婆<rt>Hai</rt></ruby> <ruby>征<rt>Bà</rt></ruby> <ruby>固<rt>Trưng</rt></ruby> <ruby>大<rt>có</rt></ruby> <ruby>財<rt>đại</rt></ruby> <ruby> <rt>tài</rt></ruby>
+<ruby>𠄩<rt>Hai</rt></ruby> <ruby>婆<rt>Bà</rt></ruby> <ruby>征<rt>Trưng</rt></ruby> <ruby>𣎏<rt>có</rt></ruby> <ruby>大<rt>đại</rt></ruby> <ruby>財<rt>tài</rt></ruby>
 
-<ruby>起<rt>Phất</rt></ruby> <ruby>義<rt>cờ</rt></ruby> <ruby>邪<rt>khởi</rt></ruby> <ruby>見<rt>nghĩa</rt></ruby> <ruby> <rt>giết</rt></ruby> <ruby> <rt>người</rt></ruby> <ruby> <rt>tà</rt></ruby> <ruby> <rt>gian</rt></ruby>
+<ruby>拂<rt>Phất</rt></ruby> <ruby>旗<rt>cờ</rt></ruby> <ruby>起<rt>khởi</rt></ruby> <ruby>義<rt>nghĩa</rt></ruby> <ruby>𪲽<rt>giết</rt></ruby> <ruby>𠊛<rt>người</rt></ruby> <ruby>邪<rt>tà</rt></ruby> <ruby>奸<rt>gian</rt></ruby>
 
-<ruby>恢<rt>Ra</rt></ruby> <ruby>復<rt>tay</rt></ruby> <ruby>江<rt>khôi</rt></ruby> <ruby>山<rt>phục</rt></ruby> <ruby> <rt>giang</rt></ruby> <ruby> <rt>san</rt></ruby>
+<ruby>𫥨<rt>Ra</rt></ruby> <ruby>𢬣<rt>tay</rt></ruby> <ruby>恢<rt>khôi</rt></ruby> <ruby>復<rt>phục</rt></ruby> <ruby>江<rt>giang</rt></ruby> <ruby>山<rt>san</rt></ruby>
 
 <ruby>渃<rt>Tiếng</rt></ruby> <ruby>咱<rt>thơm</rt></ruby> <ruby> <rt>dài</rt></ruby> <ruby> <rt>tạc</rt></ruby> <ruby> <rt>đá</rt></ruby> <ruby> <rt>vàng</rt></ruby> <ruby> <rt>nước</rt></ruby> <ruby> <rt>ta</rt></ruby>
 
-<ruby>省<rt>Tỉnh</rt></ruby> <ruby>清<rt>Thanh</rt></ruby> <ruby>化<rt>Hoá</rt></ruby> <ruby>固<rt>có</rt></ruby> <ruby>沒<rt>một</rt></ruby> <ruby>婆<rt>bà</rt></ruby>
+<ruby>省<rt>Tỉnh</rt></ruby> <ruby>清<rt>Thanh</rt></ruby> <ruby>化<rt>Hoá</rt></ruby> <ruby>𣎏<rt>có</rt></ruby> <ruby>𠬠<rt>một</rt></ruby> <ruby>婆<rt>bà</rt></ruby>
 
 <ruby>趙<rt>Tên</rt></ruby> <ruby>嶴<rt>là</rt></ruby> <ruby> <rt>Triệu</rt></ruby> <ruby> <rt>Ẩu</rt></ruby> <ruby> <rt>tuổi</rt></ruby> <ruby> <rt>vừa</rt></ruby> <ruby> <rt>đôi</rt></ruby> <ruby> <rt>mươi</rt></ruby>
 
