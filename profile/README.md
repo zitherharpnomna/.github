@@ -10,6 +10,6 @@
 
 🍿 Song hành với đó là dữ liệu về chữ Nôm sẽ được tổng hợp vào trong các dự án tại đây
 
-🧙 Nhớ nè, bạn có thể liên lạc với chúng mình bất cứ khi nào nếu có thắc mắc hay ý kiến tại [Facebook](https://www.facebook.com/zitherharpnomna) nhé.
+🧙 Nhớ nè, bạn có thể liên lạc với chúng mình bất cứ khi nào nếu có thắc mắc hay ý kiến nhé.
 
 **Cảm ơn bạn đã đọc hết!**
