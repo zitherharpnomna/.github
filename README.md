@@ -6,6 +6,7 @@ Color|Name|Localized name|Status
 -|Nomna Books|Nomna Sách|-
 -|Nomna Browser|Nomna Trình duyệt|-
 -|Nomna Calendar|Nomna Lịch biểu|-
+-|Nomna Calligraphy|Nomna Thư pháp|- 
 -|Nomna Contribute|Nomna Đóng góp|-
 -|Nomna Culture|Nomna Văn hóa|-
 -|Nomna Dictionary|Nomna Từ điển|-
